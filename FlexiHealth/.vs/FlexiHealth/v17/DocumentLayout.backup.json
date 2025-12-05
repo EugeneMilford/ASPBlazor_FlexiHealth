@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\models\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\models\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\static\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\static\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\models\\doctor\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\models\\doctor\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\models\\doctor\\adddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\models\\doctor\\adddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\data\\flexihealthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\data\\flexihealthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|d:\\projects\\flexihealth project\\flexihealth\\flexihealth.api\\flexihealth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06E0E3CD-04EC-4271-B3DF-E1DEB702CD7F}|FlexiHealth.API\\FlexiHealth.API.csproj|solutionrelative:flexihealth.api\\flexihealth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Static\\Messages.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Static\\Messages.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Static\\Messages.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Static\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:19:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Models\\Doctor\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Models\\Doctor\\DoctorDto.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Models\\Doctor\\DoctorDto.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Models\\Doctor\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:33:03.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateDoctorDto.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Models\\Doctor\\UpdateDoctorDto.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Models\\Doctor\\UpdateDoctorDto.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Models\\Doctor\\UpdateDoctorDto.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Models\\Doctor\\UpdateDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:16:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDoctorDto.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Models\\Doctor\\AddDoctorDto.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Models\\Doctor\\AddDoctorDto.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Models\\Doctor\\AddDoctorDto.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Models\\Doctor\\AddDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:16:08.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Configurations\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Configurations\\MapperConfig.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Configurations\\MapperConfig.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Configurations\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:50:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:54:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlexiHealthDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Data\\FlexiHealthDbContext.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Data\\FlexiHealthDbContext.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Data\\FlexiHealthDbContext.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Data\\FlexiHealthDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:03:20.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlexiHealth.API.csproj",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\FlexiHealth.API.csproj",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\FlexiHealth.API.csproj",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\FlexiHealth.API.csproj",
+              "RelativeToolTip": "FlexiHealth.API\\FlexiHealth.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T16:46:22.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Program.cs",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\Program.cs",
+              "RelativeToolTip": "FlexiHealth.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:45:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FlexiHealth.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\FlexiHealth Project\\FlexiHealth\\FlexiHealth.API\\appsettings.json",
+              "RelativeToolTip": "FlexiHealth.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T19:01:03.553Z"
             }
           ]
         }

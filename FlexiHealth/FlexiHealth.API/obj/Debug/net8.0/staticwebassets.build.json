@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CtMotrHFraUQdlv6Y2v88HHfo63BUs9lxk8zYGpJbaE=",
+  "Source": "FlexiHealth.API",
+  "BasePath": "_content/FlexiHealth.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

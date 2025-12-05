@@ -1,0 +1,10 @@
+2025-12-01 13:24:49.847 +02:00 [INF] Now listening on: https://localhost:7281
+2025-12-01 13:24:49.890 +02:00 [INF] Now listening on: http://localhost:5057
+2025-12-01 13:24:49.974 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-01 13:24:49.988 +02:00 [INF] Hosting environment: Development
+2025-12-01 13:24:49.990 +02:00 [INF] Content root path: D:\Projects\FlexiHealth Project\FlexiHealth\FlexiHealth.API
+2025-12-01 14:03:11.689 +02:00 [INF] Now listening on: https://localhost:7281
+2025-12-01 14:03:11.733 +02:00 [INF] Now listening on: http://localhost:5057
+2025-12-01 14:03:11.800 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-01 14:03:11.802 +02:00 [INF] Hosting environment: Development
+2025-12-01 14:03:11.811 +02:00 [INF] Content root path: D:\Projects\FlexiHealth Project\FlexiHealth\FlexiHealth.API

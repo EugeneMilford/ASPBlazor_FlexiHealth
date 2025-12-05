@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlexiHealth.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+105f537f40fc2a88c2ca5353a26bb68b6fd7ba6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlexiHealth.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlexiHealth.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
